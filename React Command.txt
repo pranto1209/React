@@ -1,0 +1,14 @@
+To create project:
+npm create vite
+
+To create "node_modules":
+npm install
+
+To run project:
+npm run dev
+npx vite
+
+To create "dist":
+npm run build
+npx vite build
+

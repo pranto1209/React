@@ -1,0 +1,41 @@
+Auto Close Tag
+Jun Han
+
+Auto Import - ES6, TS, JSX, TSX
+Sergey Korenuk
+
+Auto Rename Tag
+Jun Han
+
+ESLint
+Microsoft
+
+npm Intellisense
+Christian Kohler
+
+Path Intellisense
+Christian Kohler
+
+Postman
+Postman
+
+Prettier - Code formatter
+Prettier
+
+Reactjs code snippets
+charalampos karypidis
+
+Snipped
+Jefferson Licet
+
+Stylelint
+Stylelint
+
+Tailwind CSS IntelliSense
+Tailwind Labs
+
+VSCode React Refactor
+planbcoding
+
+vscode-icons
+VSCode Icons Team
