@@ -1,0 +1,11 @@
+Create new project:
+npm create vite
+
+Run the project:
+npm run dev
+npx vite
+
+Build the project:
+npm run build
+npx vite build
+
